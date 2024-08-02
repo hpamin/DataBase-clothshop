@@ -1,0 +1,296 @@
+{
+  "ProductSpecialMain": [
+    {
+      "id": 1,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۸,۰۰۰,۰۰۰",
+      "discount": "۱۰٪",
+      "priceNow": "۷,۲۰۰,۰۰۰"
+    },
+    {
+      "id": 2,
+      "img": "https://img.fruugo.com/product/9/36/1045879369_max.jpg",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۱,۲۵۰,۰۰۰",
+      "discount": "۵٪",
+      "priceNow": "۱,۱۸۷,۵۰۰"
+    },
+    {
+      "id": 3,
+      "img": "https://img.fruugo.com/product/2/39/177401392_max.jpg",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۱,۷۰۰,۰۰۰",
+      "discount": "۱۳٪",
+      "priceNow": "۱,۴۸۰,۰۰۰"
+    },
+    {
+      "id": 4,
+      "img": "https://img.fruugo.com/product/2/21/1351588212_max.jpg",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۲,۱۰۰,۰۰۰",
+      "discount": "۱۰٪",
+      "priceNow": "۱,۷۸۵,۰۰۰"
+    },
+    {
+      "id": 5,
+      "img": "https://img.fruugo.com/product/9/73/1282802739_max.jpg",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۲,۵۰۰,۰۰۰",
+      "discount": "۸٪",
+      "priceNow": "۲,۳۰۰,۰۰۰"
+    },
+    {
+      "id": 6,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۹۶۰,۰۰۰",
+      "discount": "۱۲٪",
+      "priceNow": "۸۴۵,۰۰۰"
+    },
+    {
+      "id": 7,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۸,۰۰۰,۰۰۰",
+      "discount": "۱۰٪",
+      "priceNow": "۷,۲۰۰,۰۰۰"
+    },
+    {
+      "id": 8,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۸,۰۰۰,۰۰۰",
+      "discount": "۱۰٪",
+      "priceNow": "۷,۲۰۰,۰۰۰"
+    },
+    {
+      "id": 9,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۸,۰۰۰,۰۰۰",
+      "discount": "۱۰٪",
+      "priceNow": "۷,۲۰۰,۰۰۰"
+    },
+    {
+      "id": 10,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۸,۰۰۰,۰۰۰",
+      "discount": "۱۰٪",
+      "priceNow": "۷,۲۰۰,۰۰۰"
+    }
+  ],
+  "ProductBestSeller": [
+    {
+      "id": 1,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    },
+    {
+      "id": 2,
+      "img": "https://img.fruugo.com/product/9/36/1045879369_max.jpg",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۱,۲۵۰,۰۰۰",
+      "discount": "۵٪",
+      "priceNow": "۱,۱۸۷,۵۰۰"
+    },
+    {
+      "id": 3,
+      "img": "https://img.fruugo.com/product/2/39/177401392_max.jpg",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۱,۷۰۰,۰۰۰",
+      "discount": "۱۳٪",
+      "priceNow": "۱,۴۸۰,۰۰۰"
+    },
+    {
+      "id": 4,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    },
+    {
+      "id": 5,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    },
+    {
+      "id": 6,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    },
+    {
+      "id": 7,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۹۶۰,۰۰۰"
+    },
+    {
+      "id": 8,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    },
+    {
+      "id": 9,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    },
+    {
+      "id": 10,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    }
+  ],
+  "AmazingMain": [
+    {
+      "id": 1,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    },
+    {
+      "id": 2,
+      "img": "https://img.fruugo.com/product/9/36/1045879369_max.jpg",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۱,۲۵۰,۰۰۰",
+      "discount": "۵٪",
+      "priceNow": "۱,۱۸۷,۵۰۰"
+    },
+    {
+      "id": 3,
+      "img": "https://img.fruugo.com/product/2/39/177401392_max.jpg",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۱,۷۰۰,۰۰۰",
+      "discount": "۱۳٪",
+      "priceNow": "۱,۴۸۰,۰۰۰"
+    },
+    {
+      "id": 4,
+      "img": "https://img.fruugo.com/product/2/21/1351588212_max.jpg",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۲,۱۰۰,۰۰۰",
+      "discount": "۱۰٪",
+      "priceNow": "۱,۷۸۵,۰۰۰"
+    },
+    {
+      "id": 5,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۸,۰۰۰,۰۰۰",
+      "discount": "۲۰٪",
+      "priceNow": "۶,۴۰۰,۰۰۰"
+    },
+    {
+      "id": 6,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    },
+    {
+      "id": 7,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۹۶۰,۰۰۰"
+    },
+    {
+      "id": 8,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    },
+    {
+      "id": 9,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    },
+    {
+      "id": 10,
+      "img": "https://stayhard.com/cdn/shop/files/61076-01_002.png?v=1693309743",
+      "title": "لباس مردانه اچ‌پی امین",
+      "price": "۵۹۰,۰۰۰"
+    }
+  ],
+  "brands": [
+    {
+      "id": 0,
+      "img": "https://1000logos.net/wp-content/uploads/2022/08/Zara-log%D0%BE.png"
+    },
+    {
+      "id": 1,
+      "img": "https://www.jowhareh.com/images/Jowhareh/galleries/medium_f2f43d0d-18b7-4680-a367-d3089b2c778c.webp"
+    },
+    {
+      "id": 2,
+      "img": "https://thepalladium.agency/wp-content/uploads/%D9%84%D9%88%DA%AF%D9%88-%D8%B1%D8%B3%D8%A7%DA%86%DB%8C.png"
+    },
+    {
+      "id": 3,
+      "img": "https://billionibrand.com/wp-content/uploads/2021/02/04.png"
+    },
+    {
+      "id": 4,
+      "img": "https://malltina.com/mag/wp-content/uploads/2019/03/logo-MUNICH-1.png"
+    },
+    {
+      "id": 5,
+      "img": "https://malltina.com/mag/wp-content/uploads/2019/03/reebok_logo_detail.png"
+    },
+    {
+      "id": 6,
+      "img": "https://www.brandkade.com/Core/imagecontroller.ashx?FileURL=/UploadedFiles/2021-5-31-14-57-Givenchy-Logo.png"
+    },
+    {
+      "id": 7,
+      "img": "https://malltina.com/mag/wp-content/uploads/2019/03/Puma_Logo.png"
+    },
+    {
+      "id": 8,
+      "img": "https://iranmodeling.net/wp-content/uploads/2022/08/Louis-Vuitton.jpeg"
+    },
+    {
+      "id": 9,
+      "img": "https://www.brandkade.com/Core/imagecontroller.ashx?FileURL=/UploadedFiles/2021-5-31-14-57-Lacoste-Logo.png"
+    },
+    {
+      "id": 10,
+      "img": "https://rayamarketing.com/uploads/files/panelUpload/4aa6d7bba5a596cbbc162be60381a493.png"
+    },
+    {
+      "id": 11,
+      "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST6uWmj2gr-j6m6BYNNC6-ha5HtW7AiUN7IaZ7mCp4CL5w-gDyFtZnwhSjJkRANCDF-_o&usqp=CAU"
+    }
+  ],
+  "blogs": [
+    {
+      "id": 0,
+      "title": "تیپ پاییزه امسال",
+      "img": "https://www.modman.com/media/magefan_blog/milan-fashion-week-fall-2020-best-street-style.jpg",
+      "caption": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است"
+    },
+    {
+      "id": 1,
+      "title": "زمستون چی بپوشم؟",
+      "img": "https://dayanshop.com/blog/wp-content/uploads/2022/10/winter-black-boots-outfits-for-men.jpg",
+      "caption": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است"
+    },
+    {
+      "id": 2,
+      "title": "استایل خیابانی",
+      "img": "https://cdn.lebasoposhak.ir/images/aaa10fc0-a5a9-11ee-b1ae-0399441f505c.jpg",
+      "caption": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است"
+    },
+    {
+      "id": 3,
+      "title": "نکات استایل رسمی",
+      "img": "https://www.banimode.com/blog/wp-content/uploads/2021/02/men-formal-style.jpg",
+      "caption": "لورم ایپسوم متن ساختگی با تولید سادگی نامفهوم از صنعت چاپ و با استفاده از طراحان گرافیک است چاپگرها و متون بلکه روزنامه و مجله در ستون و سطرآنچنان که لازم است"
+    }
+  ]
+}
